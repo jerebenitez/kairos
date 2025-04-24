@@ -1,5 +1,3 @@
-# ⏳ kairos
-
 <p align="center">
   <img alt="Kairos logo" src="https://github.com/user-attachments/assets/cff7ea17-aea2-45f4-be73-7a70765f51db" width="250">
 </p>
